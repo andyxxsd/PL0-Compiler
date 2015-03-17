@@ -1,6 +1,7 @@
 # Output
 
 lex
+lex.yy.c
 
 # Created by https://www.gitignore.io
 
